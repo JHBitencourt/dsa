@@ -1,9 +1,17 @@
 
 ### Leetcode
 
-> easy: :ok:
-> medium: :rage:
+> trivial: :cookie:  
+> easy: :ok:  
+> medium: :rage:  
 > hard: :sos:
+> how is it possible?: :skull:
+
+#### Arrays
+
+- :cookie: [Max Consecutive Ones 489](/lib/leetcode/max_consecutive_ones_489.dart) 
+- two pointers
+  - :ok: :rage: [Duplicate Zeros 1089](/lib/leetcode/duplicate_zeros_1089.dart) 
 
 #### Binary Search
 
