@@ -1,10 +1,20 @@
+### Data Structure and Algorithms
+
+#### Arrays
+
+- [Basic Array](/lib/arrays/array.dart) 
+- [Sorted Array](/lib/arrays/array_sorted.dart) 
+- [Dynamic Array](/lib/arrays/dynamic_array.dart) 
+- [2D Array](/lib/arrays/two_d_array.dart)
+- sorting:
+  - [Merge Sort](/lib/arrays/sorting/merge_sort.dart) 
 
 ### Leetcode
 
 > trivial: :cookie:  
 > easy: :ok:  
 > medium: :rage:  
-> hard: :sos:
+> hard: :sos:  
 > how is it possible?: :skull:
 
 #### Arrays
